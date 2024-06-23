@@ -96,6 +96,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="install.bat" />
+    <None Include="uninstall.bat" />
+    <None Include="定时重启程序安装使用教程.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dotNetFx40_Full_x86_x64.exe" />
+    <Content Include="NetFx20SP1_x86.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
