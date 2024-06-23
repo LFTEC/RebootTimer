@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebootTimer", "RebootTimer\RebootTimer.csproj", "{47802772-1661-4BDF-84BE-2EE4F3FF77F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerSet", "TimerSet\TimerSet.csproj", "{EEF8AB49-AB69-4FE3-99B4-27D807D8311D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Config", "Config\Config.csproj", "{81080422-2D9D-4F3E-A47C-B3D0740BA0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47802772-1661-4BDF-84BE-2EE4F3FF77F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47802772-1661-4BDF-84BE-2EE4F3FF77F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47802772-1661-4BDF-84BE-2EE4F3FF77F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47802772-1661-4BDF-84BE-2EE4F3FF77F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF8AB49-AB69-4FE3-99B4-27D807D8311D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF8AB49-AB69-4FE3-99B4-27D807D8311D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF8AB49-AB69-4FE3-99B4-27D807D8311D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF8AB49-AB69-4FE3-99B4-27D807D8311D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81080422-2D9D-4F3E-A47C-B3D0740BA0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81080422-2D9D-4F3E-A47C-B3D0740BA0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81080422-2D9D-4F3E-A47C-B3D0740BA0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81080422-2D9D-4F3E-A47C-B3D0740BA0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C48A887-F053-4F25-B01F-C4CA9BD818C1}
+	EndGlobalSection
+EndGlobal
